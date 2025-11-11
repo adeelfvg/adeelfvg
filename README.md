@@ -11,10 +11,11 @@
 
 <!-- Option 2: Badge-style animated roles -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Full-Stack%20Developer-💻-blue?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/UI%2FUX%20Designer-🎨-pink?style=for-the-badge&logo=figma" />
-  <img src="https://img.shields.io/badge/Tech%20Innovator-🚀-green?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-💻-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/UI%2FUX-Designer-🎨-pink?style=for-the-badge&logo=figma" />
+  <img src="https://img.shields.io/badge/Tech-Innovator-🚀-green?style=for-the-badge&logo=nextdotjs" />
 </p>
+
 
 <p align="center">
 🌟 Building <strong>modern web applications</strong> and <strong>interactive experiences</strong> with creativity and cutting-edge technology. I specialize in <strong>Next.js, React, MERN Stack, FastAPI, Tailwind CSS</strong>, and <strong>UI/UX design</strong>, helping startups and businesses turn ideas into scalable, high-quality solutions.
