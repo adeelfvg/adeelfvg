@@ -2,14 +2,22 @@
   Hi there, I'm Adeel 👋
 </h1>
 
+<!-- Option 1: Neutral typing animation GIF -->
 <p align="center">
   <strong>
-    <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Typing Animation" width="500"/>
+    <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" alt="Typing Animation" width="500"/>
   </strong>
 </p>
 
+<!-- Option 2: Badge-style animated roles -->
 <p align="center">
-🌟 Building <strong>modern web applications</strong> and <strong>interactive experiences</strong> with a mix of creativity and cutting-edge technology. I specialize in <strong>Next.js, React, MERN Stack, FastAPI, Tailwind CSS</strong>, and <strong>UI/UX design</strong>, helping startups and businesses turn ideas into scalable, high-quality solutions.
+  <img src="https://img.shields.io/badge/Full-Stack%20Developer-💻-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/UI%2FUX%20Designer-🎨-pink?style=for-the-badge&logo=figma" />
+  <img src="https://img.shields.io/badge/Tech%20Innovator-🚀-green?style=for-the-badge&logo=next.js" />
+</p>
+
+<p align="center">
+🌟 Building <strong>modern web applications</strong> and <strong>interactive experiences</strong> with creativity and cutting-edge technology. I specialize in <strong>Next.js, React, MERN Stack, FastAPI, Tailwind CSS</strong>, and <strong>UI/UX design</strong>, helping startups and businesses turn ideas into scalable, high-quality solutions.
 </p>
 
 ---
