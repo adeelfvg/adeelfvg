@@ -1,16 +1,62 @@
-## Hi there 👋
+<h1 align="center">
+  Hi there, I'm Adeel 👋
+</h1>
 
-<!--
-**adeelfvg/adeelfvg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>
+    <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Typing Animation" width="500"/>
+  </strong>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+🌟 Building <strong>modern web applications</strong> and <strong>interactive experiences</strong> with a mix of creativity and cutting-edge technology. I specialize in <strong>Next.js, React, MERN Stack, FastAPI, Tailwind CSS</strong>, and <strong>UI/UX design</strong>, helping startups and businesses turn ideas into scalable, high-quality solutions.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔹 About Me
+- 💻 Full-stack development: **Next.js, MERN stack, scalable APIs & serverless solutions**  
+- 🎨 UI/UX Designer: From sketches & wireframes to **responsive, modern interfaces**  
+- 🚀 Performance & SEO Optimization: Ensuring **fast-loading and discoverable websites**  
+- 🌐 Offshore Development Services: **High-quality results at 40% lower cost**  
+- 🔧 Automation & Integration: Streamlining workflows with **smart tools & APIs**  
+- 🏆 Passionate about delivering **impactful tech solutions** for clients and users
+
+---
+
+## 🛠️ Tech Stack & Tools
+**Frontend:** Next.js | React | Tailwind CSS | HTML5 | CSS3 | JavaScript | Redux  
+**Backend:** Node.js | Express.js | FastAPI | MongoDB | PostgreSQL | REST & GraphQL APIs  
+**Tools & Platforms:** Git | GitHub | Docker | Linux | Vercel | Netlify | CI/CD Pipelines  
+**Design & Visualization:** Figma | Adobe Illustrator | Hand-drawn sketches | UI Animations
+
+---
+
+## 🌐 Connect with Me
+[![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-green?style=for-the-badge&logo=fiverr)](https://www.fiverr.com/s/YR1XxAd)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Adeel-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-adeel-3836b8274)  
+[![Upwork](https://img.shields.io/badge/Upwork-View%20Profile-brightgreen?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~015f09e4ce1f66527f?p=1804023285153173504)
+
+---
+
+## 🔹 What I Do
+- Build **full-stack applications** with **modern frameworks & scalable architecture**  
+- Refactor & **enhance websites** with **responsive, SEO-friendly designs**  
+- Integrate **automation tools & APIs** for efficient workflows  
+- Collaborate with clients & teams to deliver projects **on time and with quality**
+
+---
+
+## 📊 GitHub Stats
+
+![Adeel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adeelfvg&show_icons=true&theme=radical&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adeelfvg&layout=compact&theme=radical)
+
+---
+
+## ⚡ Fun Fact
+I love **mixing creativity with code** — whether building dynamic web apps or crafting **UI animations**, I enjoy **making the web a better place** for users and businesses.  
+
+---
+
+> Let’s build something amazing together! 🚀
